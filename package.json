@@ -1,6 +1,6 @@
 {
   "name": "pascalcase-keys",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert object keys to PascalCase",
   "license": "MIT",
   "repository": "ajoslin/camelcase-keys",
