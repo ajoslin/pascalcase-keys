@@ -1,0 +1,51 @@
+{
+  "name": "pascalcase-keys",
+  "version": "0.0.0",
+  "description": "Convert object keys to PascalCase",
+  "license": "MIT",
+  "repository": "ajoslin/camelcase-keys",
+  "author": {
+    "name": "Andrew Joslin",
+    "email": "andrewtjoslin@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "map",
+    "obj",
+    "object",
+    "key",
+    "keys",
+    "value",
+    "values",
+    "val",
+    "iterate",
+    "pascalcase",
+    "pascal-case",
+    "pascal",
+    "case",
+    "dash",
+    "hyphen",
+    "dot",
+    "underscore",
+    "separator",
+    "string",
+    "text",
+    "convert"
+  ],
+  "devDependencies": {
+    "standard": "^5.4.1",
+    "tape": "^4.4.0"
+  },
+  "dependencies": {
+    "map-obj": "^1.0.0",
+    "pascal-case": "^1.1.2"
+  }
+}
