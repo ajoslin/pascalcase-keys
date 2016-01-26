@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Convert object keys to PascalCase",
   "license": "MIT",
-  "repository": "ajoslin/camelcase-keys",
+  "repository": "ajoslin/pascalcase-keys",
   "author": {
     "name": "Andrew Joslin",
     "email": "andrewtjoslin@gmail.com"
